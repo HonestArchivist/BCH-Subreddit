@@ -36,28 +36,40 @@
     - [Misinformation] sightings often concern the Bitcoin whitepaper. This defines Bitcoin as being the longest proof-of-work chain. That is and always has been BTC. This is further substantiated by the global market, basic logic, and obvious price.
     - Flipstarter posts have been dumped into [RV-Spam]. They do not constitute a subreddit rule violation [No begging for bitcoin].
  
-#### Archive.Today/Archive.VN
+### Archive.Today/Archive.VN
 - The links are updated weekly. (feel free to add)
 - List is incomplete as this was suggested in 20-08 and implemented on 20-09.
-- List is not all inclusive.
+- List is not all inclusive. Does not account for muted posts/comments.
    - [Citation of Posts/Comments](https://archive.vn/https://www.reddit.com/r/btc*)
    - [Documentation of Censorship](https://archive.vn/https://snew.notabug.io/r/btc*)
+     - https://www.removeddit.com/r/btc/comments/eipd1y/hayden_otto_inadvertently_publishes_irrefutable/?utm_source=share&utm_medium=ios_app&utm_name=iossmf1
    - [Backup of Modlogs](https://archive.vn/https://modlogs.fyi/r/btc*)
 	
-#### Related GitHub Repositories (additional links are welcome):
+### Related GitHub Repositories
    - [Censorship on r/btc by Chris Belcher](https://gist.github.com/chris-belcher/c9f4b90bec1b2fbf8caaab178719ac24)
 
-#### Educational/Informational Resources (additional links are welcome):
+### Educational/Informational Resources:
 - https://bitcoin.org/bitcoin.pdf
 - https://bitcoineasy.github.io/
 - https://www.lopp.net/bitcoin-information.html
 - https://github.com/bitcoinbook/bitcoinbook
 - https://bitinfocharts.com/comparison/transactions-btc-bch.html
+- https://doublespend.cash/
 
-#### Tribute to history lessons/tabloid hit pieces that are prevalent in R/BTC:
+### Relevant Articles:
 - https://steemit.com/bitcoin/@gank/the-truth-about-roger-ver-and-bch-and-why-you-and-your-usd-should-stay-away
 - https://medium.com/@WhalePanda/roger-ver-from-bitcoin-jesus-to-bitcoin-antichrist-69fc7a17c622
+- https://bitcoinist.com/centralized-nick-szabo-bitcoin-cash/
 - https://medium.com/hackernoon/thats-not-bitcoin-that-s-bcash-f730f0d0a837
-- https://micky.com.au/is-bitcoin-cash-really-used-for-93-of-australias-retail-crypto-spend/?utm_source=reddit
+- https://cointelegraph.com/news/bitcoin-twitter-handle-with-1-million-followers-renounces-bitcoin-cash
+- https://en.ethereumworldnews.com/roger-ver-bitcoin-twitter-handle-distrau/
+- https://medium.com/@robertmuncaster/the-journey-from-bch-to-btc-3f46eb175f48
+- https://micky.com.au/is-bitcoin-cash-really-used-for-93-of-australias-retail-crypto-spend/
+- https://coinrivet.com/roger-ver-im-not-involved-with-bitclub-network-scam/
+- https://decrypt.co/14743/bitcoin-com-ceo-defends-decision-to-list-controversial-hex-token
+- https://coingape.com/analysts-domain-desperate-bitcoin-com/
+- https://mobile.twitter.com/travelbybit/status/1208979361048588288?s=21
 - https://micky.com.au/104-merchants-drop-worthless-bitcoin-but-is-it-just-a-bch-stunt/
+- https://jimmysong.substack.com/p/what-bch-teaches-us-about-decentralization
 - https://coingape.com/bitcoin-com-fires-50-staff-as-bitcoin-cash-bch-halving-approaches-is-fear-factor-setting-in/
+- https://mobile.twitter.com/micropresident/status/1302385686423597056
