@@ -1,8 +1,8 @@
 ## Archive for R/BTC: BCH Subreddit
--  Disclaimer: It has been argued by BCH supporters that R/BTC is not exclusively a BCH subreddit. But, whereas the term "R/BTC community/subreddit" might be used. The term "BTC community/subreddit" would not be. This is because it would be strange for the "BCH communinity/subreddit" to refer to itself as the "BTC community/subreddit" despite using R/BTC as their subreddit. 
+-  Disclaimer: It has been argued by BCH supporters that r/BTC is not exclusively a BCH subreddit. But, whereas the term "r/BTC community/subreddit" might be used. The term "BTC community/subreddit" would not be. This is because it would be strange for the "BCH communinity/subreddit" to refer to itself as the "BTC community/subreddit" despite using r/BTC as their subreddit. 
 - [Bitcoin Cash: The People](https://read.cash/@Read.Cash/bitcoin-cash-the-people-66e43350)
 ### Screenshots
-- The initial folder [RBTC] is partial and incomplete as this project was not initiated until 20-06.
+- The initial folder [RBTC] is partial and incomplete as this was not initiated until 20-06.
 - The screenshots are collected daily by checking new posts, revisits are infrequent, and archived monthly using the format of [RBTC YY-MM]. 
 - RV refers to subreddit/reddit rule violations
 - #### Folder Breakdown
@@ -13,7 +13,7 @@
    - [BCH Echo Chamber] consists of downvoting any fact or opinion that contradicts the narrative for BCH.
    - [BCH Fees] consists of posts focused on the sole legitimate metric where BCH beats Bitcoin.
    - [BCH Propoganda] consists of propoganda to rally BCH supporters .
-   - [BCH rBitcoin] consists of being banned from R/Bitcoin and commenting on posts/users/mods therein.
+   - [BCH rBitcoin] consists of being banned from r/Bitcoin and commenting on posts/users/mods therein.
    - [BCH Spin Doctor] consists of deflecting and/or spinning something unrelated and/or opinionated into a positive outlook for BCH.
    - [BCH Subreddit] consists of statements, either direct or indirect, referring to r/BTC as the BCH subreddit/community.
    - [BCH Subreddit; RV-Misinformation] similar to [BCH Subreddit] but includes cases of reddit rule violation [misinformation].
@@ -32,12 +32,11 @@
    - [RV-Targeted Harassment] consists of reddit rule violation [targeted harassment]
  - #### Folder Context
     - Sorting is based on subjective bias/interpretation.
-    - RV refers to rule violations for subreddit/reddit.
     - [Misinformation] sightings often concern the Bitcoin whitepaper. This defines Bitcoin as being the longest proof-of-work chain. That is and always has been BTC. This is further substantiated by the global market, basic logic, and obvious price.
     - Flipstarter posts have been dumped into [RV-Spam]. They do not constitute a subreddit rule violation [No begging for bitcoin].
  
 ### Archive.Today/Archive.VN
-- The links are updated weekly. (feel free to add)
+- The following are updated weekly. 
 - List is incomplete as this was suggested in 20-08 and implemented on 20-09.
 - List is not all inclusive. Does not account for muted posts/comments.
    - [Citation of Posts/Comments](https://archive.vn/https://www.reddit.com/r/btc*)
