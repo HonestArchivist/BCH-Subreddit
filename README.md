@@ -56,7 +56,7 @@
 - https://bitinfocharts.com/comparison/transactions-btc-bch.html
 - https://doublespend.cash/
 
-### Opinion/Fact/Tabloid Links:
+### Fact/Opinion/Tabloid Links:
 - https://steemit.com/bitcoin/@gank/the-truth-about-roger-ver-and-bch-and-why-you-and-your-usd-should-stay-away
 - https://medium.com/@WhalePanda/roger-ver-from-bitcoin-jesus-to-bitcoin-antichrist-69fc7a17c622
 - https://bitcoinist.com/centralized-nick-szabo-bitcoin-cash/
