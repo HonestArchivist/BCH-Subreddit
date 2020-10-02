@@ -1,8 +1,8 @@
-## Archive for R/BTC: BCH Subreddit
+## Archive for r/BTC: BCH Subreddit
 -  Disclaimer: It has been argued by BCH supporters that r/BTC is not exclusively a BCH subreddit. But, whereas the term "r/BTC community/subreddit" might be used. The term "BTC community/subreddit" would not be. This is because it would be strange for the "BCH communinity/subreddit" to refer to itself as the "BTC community/subreddit" despite using r/BTC as their subreddit. 
 - [Bitcoin Cash: The People](https://read.cash/@Read.Cash/bitcoin-cash-the-people-66e43350)
 ### Screenshots
-- The initial folder [RBTC] is partial and incomplete as this was not initiated until 20-06.
+- The initial folder [RBTC] is partial and incomplete as this was implemented on 20-06.
 - The screenshots are collected daily by checking new posts, revisits are infrequent, and archived monthly using the format of [RBTC YY-MM]. 
 - RV refers to subreddit/reddit rule violations
 - #### Folder Breakdown
