@@ -21,7 +21,7 @@
    - [BCH Tether] involves their obsession with Tether, along with the doomsday predictions and falsehoods surrounding it.
    - [Funny] consists of things that were hard to catergorize, but was funny.
    - [Interesting] consists of things that were hard to catergorize, but was interesting.
-   - [RV-Doxing, Targeted Harassment; BsvAlertBot] consists of subreddit rule violation (no doxing) and reddit rule violation (targeted harassment) through the BsvAlertBot; which uncovers, for the purpose of discrimination, redditors that support BSV. 
+   - [RV-Doxing, Targeted Harassment; BsvAlertBot] consists of subreddit rule violation (no doxing) and reddit rule violation (targeted harassment) through the BsvAlertBot; which uncovers, for the purpose of discrimination, redditors that might support BSV. 
    - [RV-Doxing, Targeted Harassment; Cryptochecker] consists of subreddit rule violation (no doxing) and reddit rule violation (targeted harassment) through the Crytochecker Bot; which uncovers, for the purpose of discrimination, redditors that were downvoted in [BCH Echo Chamber].
    - [RV-Misinformation] consists of reddit rule violation (misinformation).
    - [RV-Misinformation, Rude] consists of reddit rule violation (misinformation) and reddit rule violation (rude, vulgar, or offensive).
