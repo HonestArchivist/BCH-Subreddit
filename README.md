@@ -22,9 +22,10 @@
    - [Funny] consists of things that were hard to catergorize, but was funny.
    - [Interesting] consists of things that were hard to catergorize, but was interesting.
    - [RV-Doxing, Targeted Harassment; BsvAlertBot] consists of subreddit rule violation (no doxing) and reddit rule violation (targeted harassment) through the BsvAlertBot; which uncovers, for the purpose of discrimination, redditors that support BSV. 
-   - [RV-Doxing, Targeted Harassment; Cryptochecker] consists of subreddit rule violation (no doxing) and reddit rule violation (targeted harassment) through the BsvAlertBot; which uncovers, for the purpose of discrimination, redditors that were downvoted in [BCH Echo Chamber].
+   - [RV-Doxing, Targeted Harassment; Cryptochecker] consists of subreddit rule violation (no doxing) and reddit rule violation (targeted harassment) through the Crytochecker Bot; which uncovers, for the purpose of discrimination, redditors that were downvoted in [BCH Echo Chamber].
    - [RV-Misinformation] consists of reddit rule violation (misinformation).
    - [RV-Misinformation, Rude] consists of reddit rule violation (misinformation) and reddit rule violation (rude, vulgar, or offensive).
+   - [RV-Misinformation, Rude, Targeted Harassment; Sh_res] consists of reddit rule violation (misinformation) and reddit rule violation (rude, vulgar, or offensive) and reddit rule violation (targeted harassment) through the Sh_res Bot; which uncovers, for the purpose of discrimination and harassment, redditors that contradict the narrative in [BCH Echo Chamber] and/or are labeled as shills/trolls by u/ShadowOfHarbringer, who is the creator of the Bot. This was first seen in the month of October 2020. 
    - [RV-Misinformation, Targeted Harassment] consists of reddit rule violation (misinformation) and reddit rule violation (targeted harassment).
    - [RV-Offtopic] consists of subreddit rule violation (offtopic).
    - [RV-Rude] consists of reddit rule violation (rude, vulgar, or offensive). 
@@ -72,3 +73,4 @@
 - https://jimmysong.substack.com/p/what-bch-teaches-us-about-decentralization
 - https://coingape.com/bitcoin-com-fires-50-staff-as-bitcoin-cash-bch-halving-approaches-is-fear-factor-setting-in/
 - https://mobile.twitter.com/micropresident/status/1302385686423597056
+- https://www.minerupdate.com/news/miner-insights/btc-top-and-btc-com-execute-51-attack-on-bitcoin-cash-amid-upgrade-confusion
