@@ -7,13 +7,13 @@
 - RV refers to subreddit/reddit rule violations
 - #### Folder Breakdown
    - [BCH Ads] consists of advertisements and promotions, most can be linked to Bitcoin.com or their staff/supporters.
+   - [BCH Brigading] consists of being banned from a different subreddit and/or attacking/criticizing the posts/users/mods therein. r/Bitcoin is the most frequent target with r/Cryptocurrency being the second most.
    - [BCH Censorship] consists of instances of censorship and/or the approval/justification for the same.
    - [BCH Champagne] consists of celebrating perceived pitfalls in Bitcoin/LN and regarding it as a good sign for BCH.
    - [BCH Conspiracy] consists of conspiracy theories justifying the lack of support for BCH and their promoters.
    - [BCH Echo Chamber] consists of downvoting any fact or opinion that contradicts the narrative for BCH.
    - [BCH Fees] consists of posts focused on the sole legitimate metric where BCH beats Bitcoin.
    - [BCH Propoganda] consists of propoganda to rally BCH supporters .
-   - [BCH rBitcoin] consists of being banned from r/Bitcoin and commenting on posts/users/mods therein.
    - [BCH Spin Doctor] consists of deflecting and/or spinning something unrelated and/or opinionated into a positive outlook for BCH.
    - [BCH Subreddit] consists of statements, either direct or indirect, referring to r/BTC as the BCH subreddit/community.
    - [BCH Subreddit; RV-Misinformation] similar to [BCH Subreddit] but includes cases of reddit rule violation (misinformation).
