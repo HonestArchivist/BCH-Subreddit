@@ -62,6 +62,7 @@
 - https://medium.com/@WhalePanda/roger-ver-from-bitcoin-jesus-to-bitcoin-antichrist-69fc7a17c622
 - https://bitcoinist.com/centralized-nick-szabo-bitcoin-cash/
 - https://medium.com/hackernoon/thats-not-bitcoin-that-s-bcash-f730f0d0a837
+- https://bitcoinist.com/bitcoin-lawsuit-bitcoin-com-ceo-roger-ver/
 - https://www.financemagnates.com/cryptocurrency/news/bitcoin-com-faces-lawsuit-confusingly-labelled-wallet/amp/
 - https://cointelegraph.com/news/bitcoin-twitter-handle-with-1-million-followers-renounces-bitcoin-cash
 - https://en.ethereumworldnews.com/roger-ver-bitcoin-twitter-handle-distrau/
