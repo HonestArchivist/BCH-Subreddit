@@ -1,5 +1,5 @@
 ## Archive for r/BTC: BCH Subreddit
--  Disclaimer: It has been argued by BCH supporters that r/BTC is not exclusively a BCH subreddit. But, whereas the term "r/BTC community/subreddit" might be used. The term "BTC community/subreddit" would not be. This is because it would be strange for the "BCH communinity/subreddit" to refer to itself as the "BTC community/subreddit" despite using r/BTC as their subreddit. 
+-  Disclaimer: It has been claimed by BCH supporters that r/BTC is not exclusively a BCH subreddit. But, whereas the term "r/BTC community/subreddit" might be used. The term "BTC community/subreddit" would not be. This is because it would be strange for the "BCH communinity/subreddit" to refer to itself as the "BTC community/subreddit" despite using r/BTC as their subreddit. 
 - [Bitcoin Cash: The People](https://read.cash/@Read.Cash/bitcoin-cash-the-people-66e43350)
 ### Screenshots
 - The initial folder [RBTC] is partial and incomplete as this was initiated on 20-06.
@@ -7,7 +7,7 @@
 - RV refers to subreddit/reddit rule violations
 - #### Folder Breakdown
    - [BCH Ads] consists of advertisements and promotions, most can be linked to Bitcoin.com or their staff/supporters.
-   - [BCH Brigading] consists of being banned from a different subreddit and/or attacking/criticizing the posts/users/mods therein. r/Bitcoin is the most frequent target with r/Cryptocurrency being the second most.
+   - [BCH Brigading] consists of attacking/criticizing the posts/users/mods in other subreddits. r/Bitcoin is the most frequent target. 
    - [BCH Censorship] consists of instances of censorship and/or the approval/justification for the same.
    - [BCH Champagne] consists of celebrating perceived pitfalls in Bitcoin/LN and regarding it as a good sign for BCH.
    - [BCH Conspiracy] consists of conspiracy theories justifying the lack of support for BCH and their promoters.
@@ -26,6 +26,7 @@
    - [RV-Misinformation] consists of reddit rule violation (misinformation).
    - [RV-Misinformation, Rude] consists of reddit rule violation (misinformation) and reddit rule violation (rude, vulgar, or offensive).
    - [RV-Misinformation, Rude, Targeted Harassment; Sh_res] consists of reddit rule violation (misinformation) and reddit rule violation (rude, vulgar, or offensive) and reddit rule violation (targeted harassment) through the Sh_res Bot; which uncovers, for the purpose of discrimination and harassment, redditors that contradict the narrative in [BCH Echo Chamber] and/or are labeled as shills/trolls by u/ShadowOfHarbringer, who is the creator of the Bot. This was first seen in the month of October 2020. 
+   - [RV-Misinformation, Spam] consists of reddit rule violation (misinformation) and reddit rule violation (spam).
    - [RV-Misinformation, Targeted Harassment] consists of reddit rule violation (misinformation) and reddit rule violation (targeted harassment).
    - [RV-Offtopic] consists of subreddit rule violation (offtopic).
    - [RV-Rude] consists of reddit rule violation (rude, vulgar, or offensive). 
@@ -61,6 +62,7 @@
 - https://medium.com/@WhalePanda/roger-ver-from-bitcoin-jesus-to-bitcoin-antichrist-69fc7a17c622
 - https://bitcoinist.com/centralized-nick-szabo-bitcoin-cash/
 - https://medium.com/hackernoon/thats-not-bitcoin-that-s-bcash-f730f0d0a837
+- https://www.financemagnates.com/cryptocurrency/news/bitcoin-com-faces-lawsuit-confusingly-labelled-wallet/amp/
 - https://cointelegraph.com/news/bitcoin-twitter-handle-with-1-million-followers-renounces-bitcoin-cash
 - https://en.ethereumworldnews.com/roger-ver-bitcoin-twitter-handle-distrau/
 - https://medium.com/@robertmuncaster/the-journey-from-bch-to-btc-3f46eb175f48
