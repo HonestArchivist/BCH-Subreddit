@@ -17,7 +17,7 @@
    - [BCH Spin Doctor] consists of deflecting and/or spinning something unrelated and/or opinionated into a positive outlook for BCH.
    - [BCH Subreddit] consists of statements, either direct or indirect, referring to r/BTC as the BCH subreddit/community.
    - [BCH Subreddit; RV-Misinformation] similar to [BCH Subreddit] but includes cases of reddit rule violation (misinformation).
-   - [BCH Support Group] consists of playing the victim, often involving 'censorship', and seeking support from fellow BCH advocates.
+   - [BCH Support Group] consists of playing the victim, often involving 'censorship', and seeking support from fellow BCH advocates. This excludes cases covered by [BCH Brigading].
    - [BCH Tether] involves their obsession with Tether, along with the doomsday predictions and falsehoods surrounding it.
    - [Funny] consists of things that were hard to catergorize, but was funny.
    - [Interesting] consists of things that were hard to catergorize, but was interesting.
