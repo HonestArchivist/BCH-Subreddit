@@ -52,7 +52,7 @@
 	
 ### Related GitHub Repositories
    - [Censorship on r/btc by Chris Belcher]
-     - https://gist.github.com/chris-belcher/c9f4b90bec1b2fbf8caaab178719ac24)
+     - https://gist.github.com/chris-belcher/c9f4b90bec1b2fbf8caaab178719ac24
 
 ### Educational/Informational Resources:
 - https://bitcoin.org/bitcoin.pdf
