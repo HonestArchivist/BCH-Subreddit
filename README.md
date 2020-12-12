@@ -44,8 +44,8 @@
    - [Citation of Posts/Comments]
      - https://archive.vn/https://www.reddit.com/r/btc*
    - [Documentation of Censorship]
-     - https://archive.vn/https://snew.notabug.io/r/btc* (no longer used as at 20/12/12)
-     - https://archive.vn/https://www.removeddit.com/r/btc/
+     - https://archive.vn/https://snew.notabug.io/r/btc* (no longer applicable as at 20/12/12)
+     - https://archive.vn/https://www.removeddit.com/r/btc/*
      - https://www.removeddit.com/r/btc/comments/eipd1y/hayden_otto_inadvertently_publishes_irrefutable/
    - [Backup of Modlogs]
      - https://archive.vn/https://modlogs.fyi/r/btc*
