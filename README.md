@@ -41,13 +41,18 @@
 - The following are updated weekly. 
 - List is incomplete as this was suggested in 20-08 and implemented on 20-09.
 - List is not all inclusive. Does not account for muted posts/comments.
-   - [Citation of Posts/Comments](https://archive.vn/https://www.reddit.com/r/btc*)
-   - [Documentation of Censorship](https://archive.vn/https://snew.notabug.io/r/btc*)
+   - [Citation of Posts/Comments]
+     - https://archive.vn/https://www.reddit.com/r/btc*
+   - [Documentation of Censorship]
+     - https://archive.vn/https://snew.notabug.io/r/btc* (no longer used as at 20/12/12)
+     - https://archive.vn/https://www.removeddit.com/r/btc/
      - https://www.removeddit.com/r/btc/comments/eipd1y/hayden_otto_inadvertently_publishes_irrefutable/
-   - [Backup of Modlogs](https://archive.vn/https://modlogs.fyi/r/btc*)
+   - [Backup of Modlogs]
+     - https://archive.vn/https://modlogs.fyi/r/btc*
 	
 ### Related GitHub Repositories
-   - [Censorship on r/btc by Chris Belcher](https://gist.github.com/chris-belcher/c9f4b90bec1b2fbf8caaab178719ac24)
+   - [Censorship on r/btc by Chris Belcher]
+     - https://gist.github.com/chris-belcher/c9f4b90bec1b2fbf8caaab178719ac24)
 
 ### Educational/Informational Resources:
 - https://bitcoin.org/bitcoin.pdf
