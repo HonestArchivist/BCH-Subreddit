@@ -66,6 +66,7 @@
 ### Fact/Opinion/Tabloid Links:
 - https://steemit.com/bitcoin/@gank/the-truth-about-roger-ver-and-bch-and-why-you-and-your-usd-should-stay-away
 - https://medium.com/@WhalePanda/roger-ver-from-bitcoin-jesus-to-bitcoin-antichrist-69fc7a17c622
+- https://medium.com/@WhalePanda/asicboost-the-reason-why-bitmain-blocked-segwit-901fd346ee9f
 - https://bitcoinist.com/centralized-nick-szabo-bitcoin-cash/
 - https://medium.com/hackernoon/thats-not-bitcoin-that-s-bcash-f730f0d0a837
 - https://bitcoinist.com/bitcoin-lawsuit-bitcoin-com-ceo-roger-ver/
